@@ -1,4 +1,4 @@
-## Hi, SuperSodaSea Here. :cup_with_straw:
+# Hi, SuperSodaSea Here. :cup_with_straw:
 
 - :briefcase: I'm SuperSodaSea, a Graphics Engineer from Shanghai, China.
 - :computer: I mainly use **C++**, **JavaScript**, **Python**, sometimes **Rust**, **Java**, **TypeScript**, **Lua**.
